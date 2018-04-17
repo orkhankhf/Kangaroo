@@ -1,0 +1,7 @@
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe.config
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\bin\Debug\Kangaroo.pdb
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\obj\Debug\Kangaroo.exe
+C:\Users\Orkhan Farajov\Desktop\Kangaroo\Kangaroo\obj\Debug\Kangaroo.pdb
